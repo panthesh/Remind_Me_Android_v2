@@ -4,7 +4,7 @@ RemindMe is an android app that allows building a todo list and basic todo items
 
 Submitted by: Panthesh Shah
 
-Time spent: 12 hours spent in total
+Time spent: 18 hours spent in total
 
 User Stories
 
