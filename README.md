@@ -16,17 +16,13 @@ The following required functionality is completed:
 
 The following **optional** features are implemented:
 
-[Yes] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
+*   [Yes] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 <a href="https://imgur.com/6o0VIIM">Video Walkthrough</a>
-
-Here's a walkthrough of implemented user stories:
-
-Video Walkthrough
 
 GIF created with LiceCap.
 
